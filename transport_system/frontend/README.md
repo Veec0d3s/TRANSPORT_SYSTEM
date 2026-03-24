@@ -198,7 +198,7 @@ The system supports multiple routes across Uganda (Kampala-Entebbe, Kampala-Jinj
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bus-transport-system.git
+https://github.com/Veec0d3s/TRANSPORT_SYSTEM.git
 cd bus-transport-system/backend
 
 # Create virtual environment
