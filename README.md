@@ -170,7 +170,7 @@ PostgreSQL (or SQLite for development)
 Git
 Backend Setup
 # Clone the repository
-https://github.com/Veec0d3s/TRANSPORT_SYSTEM.git
+https://github.com/Veec0d3s/Fleet_System-.git
 cd bus-transport-system/backend
 
 # Create virtual environment
